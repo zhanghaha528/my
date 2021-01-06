@@ -47,9 +47,9 @@ CASH                  👉   QQREAD_CASH  提现标准 可设置0 1 2 10 30 50 1
 hostname=mqqapi.reader.qq.com
 ############## 圈x
 #企鹅读书获取更新body
-https:\/\/mqqapi\.reader\.qq\.com\/log\/v4\/mqq\/track url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
+https:\/\/mqqapi\.reader\.qq\.com\/log\/v4\/mqq\/track url script-request-body https://raw.githubusercontent.com/zhanghaha528/my/main/qq.js
 #企鹅读书获取时长cookie
-https:\/\/mqqapi\.reader\.qq\.com\/mqq\/addReadTimeWithBid? url script-request-header https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js
+https:\/\/mqqapi\.reader\.qq\.com\/mqq\/addReadTimeWithBid? url script-request-header https://raw.githubusercontent.com/zhanghaha528/my/main/qq.js
 
 ############## loon
 #企鹅读书获取更新body
