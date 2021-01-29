@@ -1,0 +1,36 @@
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=1
+
+
+2野生技= http,106.52.127.72,19951
+3 = http,3music.poetyin.me,100
+4 = http,block4music.poetyin.me,39000
+5 = Shadowsocks,blockmusic.poetyin.me,30003,aes-128-gcm,"desperadoj.com_free_proxy_x80j"
+6 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+7 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
+8 = Shadowsocks,proxy.plusmedia.site,58080,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+9 = Shadowsocks,proxy.plusmedia.site,58081,rc4-md5,"ieG9l1nte5eo7IBZas84jLi"
+http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=10
+http=taron.top:200, over-tls=false, fast-open=false, udp-relay=false, tag=11
+http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=12
+http=unblockmusic.yjs2635.xyz:60999, fast-open=false, udp-relay=false, tag=13
+
+http=aimer.one:3333,fast-open=false, udp-relay=false, tag=14
+
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=15
+
+http=taron.top:200, fast-open=false, udp-relay=false, tag=16
+
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=17
+
+http=lolico.me:443,fast-open=false, udp-relay=false, tag=18
+
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=19
+
+http=3music.poetyin.me:100, fast-open=false, udp-relay=false, tag=20
+
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=21
+
+shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=22
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=23
+
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=24
