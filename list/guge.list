@@ -3,11 +3,12 @@
 DOMAIN-KEYWORD,www.google.,GoogleSearch
 
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv,PROXY
-DOMAIN-SUFFIX,periscope.tv,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,twimg.co,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitpic.com,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,vine.co,PROXY
+DOMAIN-SUFFIX,pscp.tv,Twitter
+DOMAIN-SUFFIX,periscope.tv,Twitter
+DOMAIN-SUFFIX,t.co,Twitter
+DOMAIN-SUFFIX,twimg.co,Twitter
+DOMAIN-SUFFIX,twimg.com,Twitter
+DOMAIN-SUFFIX,twitpic.com,Twitter
+DOMAIN-SUFFIX,twitter.com,Twitter
+DOMAIN-SUFFIX,twitter.jp,Twitter
+DOMAIN-SUFFIX,vine.co,Twitter
